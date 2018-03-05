@@ -5,7 +5,7 @@ null,
 {"id":3,"expanded":false,"name":"Creck's Tent","order":3,"parentId":2,"scrollX":982.8,"scrollY":553.1999999999999},
 {"id":4,"expanded":false,"name":"Orph's House","order":5,"parentId":1,"scrollX":982.8,"scrollY":553.1999999999999},
 {"id":5,"expanded":false,"name":"Armour and Weapons Shop","order":4,"parentId":2,"scrollX":982.8,"scrollY":553.1999999999999},
-{"id":6,"expanded":true,"name":"Castle Grounds","order":8,"parentId":8,"scrollX":973.1999999999999,"scrollY":553.1999999999999},
+{"id":6,"expanded":true,"name":"Castle Grounds","order":8,"parentId":8,"scrollX":973.1999999999999,"scrollY":886.8},
 {"id":7,"expanded":false,"name":"Road to Castle","order":7,"parentId":8,"scrollX":982.8,"scrollY":553.1999999999999},
 {"id":8,"expanded":true,"name":"Castle Entrance","order":6,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999}
 ]
