@@ -3,7 +3,7 @@ null,
 {"id":1,"battlerName":"Papoki Battler","characterIndex":0,"characterName":"Papoki Walk","classId":4,"equips":[4,1,2,3,0],"faceIndex":0,"faceName":"Papoki Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Papoki","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Crack Battler","characterIndex":0,"characterName":"Crack Walk","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Crack Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Crack","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"Orph Battler","characterIndex":0,"characterName":"Orph Walk","classId":5,"equips":[5,0,2,3,4],"faceIndex":0,"faceName":"Orph Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Orph","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"kirin fighto","characterIndex":0,"characterName":"kirin walk","classId":6,"equips":[11,0,9,8,0],"faceIndex":0,"faceName":"kirin face","traits":[{"code":22,"dataId":1,"value":0.2}],"initialLevel":5,"maxLevel":99,"name":"Kirin","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
